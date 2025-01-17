@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NextJs, JavaScript, PHP**
 
-- 👨‍💻 All of my projects are available at [https://versel-portfolio.vercel.app/](https://raoufbakhti.is-a.dev/)
+- 👨‍💻 All of my projects are available at [https://raoufbakhti.is-a.dev](https://raoufbakhti.is-a.dev/)
 
 - 💬 Ask me about **ReactJs, NextJs, JavaScript, PHP**
 
