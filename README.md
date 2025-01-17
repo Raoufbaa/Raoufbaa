@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raouf Bakhti</h1>
 <h3 align="center">An enthusiastic developer skilled in frontend and PHP technologies, originating from Algeria</h3>
 
-- 🔭 I’m currently working on [GearUP](https://github.com/Raoufbaa/Marechal-vercel.git)
+- 🔭 I’m currently working on [ClawGuard](https://github.com/Raoufbaa/password-manger)
 
 - 🌱 I’m currently learning **ReactJs, NextJs, JavaScript, PHP**
 
-- 👨‍💻 All of my projects are available at [https://versel-portfolio.vercel.app/](https://versel-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://versel-portfolio.vercel.app/](https://raoufbakhti.is-a.dev/)
 
 - 💬 Ask me about **ReactJs, NextJs, JavaScript, PHP**
 
