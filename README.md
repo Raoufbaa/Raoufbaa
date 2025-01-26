@@ -14,8 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/raouf bakhti" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raouf bakhti" height="30" width="40" /></a>
-  <a href="https://fb.com/raouf bakhti" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raouf bakhti" height="30" width="40" /></a>
-  <a href="https://discord.gg/predator_dev" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="predator_dev" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/people/Ra-Ouf-Bakhti/pfbid0K2Crr4ZyQiewTsiLQoAS2wuavHKC9t96JVLt5Jf2XnYVmCupQNZFTZLo23TrnP5Vl/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raouf bakhti" height="30" width="40" /></a>
+  <a href="https://discord.gg/aSrxCq2xuy
+" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="predator_dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
